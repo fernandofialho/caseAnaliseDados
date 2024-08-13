@@ -11,6 +11,7 @@ Este projeto foca na análise de dados utilizando três bases distintas: ACCOUNT
 ## Tecnologias Utilizadas
 - Python
 - Pandas
+- Power BI
 
 ## Exemplo de Saída
 - Os resultados incluem informações detalhadas sobre o cumprimento de metas, valores transacionados e saldos finais (AUC) por responsável e cliente, fornecendo uma visão abrangente do desempenho e conformidade operacional.
